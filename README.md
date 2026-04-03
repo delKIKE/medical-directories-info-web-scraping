@@ -115,5 +115,6 @@ pip install requests beautifulsoup4 selenium feedparser
 
 ## 👤 Author
 
-Data Science Master's Student  
+Adan Ordonez
+Drexel Data Science Master's Student  
 Honduras, 2026
